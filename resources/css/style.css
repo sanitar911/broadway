@@ -18,9 +18,14 @@ h3 {
 p {
   font-size: 14px;
 }
-li {
-  font-size: 18px
+a {
   color: white;
+}
+li {
+  font-size: 18px;
+  font-weight: bold;
+  color: white;
+  line-height: 1.8em;
   list-style: none;
 }
 .navigation {
